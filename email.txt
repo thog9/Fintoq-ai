@@ -1,0 +1,4 @@
+# Email accounts for web login (email|password) - one per line
+# Example:
+# email1@gmail.com|password123
+# email2@outlook.com|mypassword456
