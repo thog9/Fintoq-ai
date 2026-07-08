@@ -3,7 +3,7 @@
 This collection of Python scripts automates tasks on the [Fintoq AI](https://fintoq.ai/referral/1o731077) platform — an AI-powered platform with daily check-ins, chat rewards, quests, and boost features.
 
 🔗 Register (Web): [Fintoq AI](https://fintoq.ai/referral/1o731077)
-🔗 Register (Telegram): [Fintoq Bot](https://t.me/Fintoq_Bot?start=ref_921415493)
+🔗 Register (Telegram): [Fintoq Bot](https://t.me/fonqastbot?startapp=ref_921415493)
 
 ---
 
